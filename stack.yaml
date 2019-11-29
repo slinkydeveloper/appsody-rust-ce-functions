@@ -1,10 +1,10 @@
-name: Rust
-version: 0.2.0
-description: Runtime for Rust applications
+name: Rust CE Functions
+version: 0.1.0
+description: Runtime for Rust CloudEvents functions
 license: Apache-2.0
 language: rust
 maintainers:
-  - name: Sandy Koh
-    email: sandy.koh@ibm.com
-    github-id: skoh7645
-default-template: simple
+  - name: Francesco Guardiani
+    email: francescoguard@gmail.com
+    github-id: slinkydeveloper
+default-template: function
